@@ -1,4 +1,4 @@
-# myinfo
+Hi! I'm Hari Prasad Tharu.
 
 A new Flutter project.
 
