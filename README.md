@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hari Prasad Tharu</h1>
 <h3 align="center">A flultter developer from bardiya,Nepal</h3>
 <img align="right" alt="Coding" width="400" src"https://tenor.com/view/coding-gif-24297652">
-<h2>Talking about Personal Stuffs:bardiya,Nepal</h2>
+<h5>Talking about Personal Stuffs: </h5>
 
 - 🌱 I’m currently learning **PHP**
 
