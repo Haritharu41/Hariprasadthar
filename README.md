@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hari Prasad Tharu</h1>
 <h3 align="center">A flultter developer from bardiya,Nepal</h3>
-<img align="right" alt="Coding" width="400" src"https://tenor.com/view/coding-gif-24297652">
+<img align="right" alt="Coding" width="400" src"[https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611e776575fbd902d6cdfcacd6c2c982841640376c9&rid=giphy.gif&ct=g)">
 <h5>Talking about Personal Stuffs: </h5>
 
 - 🌱 I’m currently learning **PHP**
